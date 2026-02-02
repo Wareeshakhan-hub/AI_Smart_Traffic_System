@@ -81,3 +81,6 @@ pip install -r requirements.txt
 
 # Run Day 5 smart system
 python src/day5_smart_signal_yolo.py
+
+## 🧠 System Architecture
+![System Architecture](docs/system_architecture.png)
