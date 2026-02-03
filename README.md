@@ -84,3 +84,8 @@ python src/day5_smart_signal_yolo.py
 
 ## 🧠 System Architecture
 ![System Architecture](docs/system_architecture.png)
+
+## 👩‍💻 Author
+**Wareesha Khan**
+**Iman Javed**  
+Final Year Project – BS Computer Science
